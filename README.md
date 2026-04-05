@@ -1,6 +1,6 @@
 # Linear-Algebra-project
-A project utilizing linear algebra and matrix math to perform image transformations using python matplotlib   
-This project was submitted for the linear algebra course in Alexandria university Faculty of engineering
+A project utilizing linear algebra and matrix math to perform image transformations using Python matplotlib   
+This project was submitted for the linear algebra course in Alexandria University Faculty of Engineering
 
 # The first Question:  
 **Rotation, Scaling & Reflection**   
@@ -14,7 +14,7 @@ shown in figure 1
 **Translation, Scaling and Reflection**   
 Linear maps F(X) = BX, where “B” is a transformation matrix, have the property that F(0)=0, so they necessarily leave the origin fixed.
 It is simple to extend this to include a transition, F(X) = V + BX, where V is a vector. Note that F(0)=V. Find the vector V and the
-matrix B that describe the following mapping (here the black shape is transformed to the red one) as shown in Figure (2).
+matrix B that describes the following mapping (here the black shape is transformed to the red one) as shown in Figure (2).
 
 <img width="575" height="421" alt="image" src="https://github.com/user-attachments/assets/c5e0a200-d383-4c70-8d4b-5b838487cf56" />   
 
